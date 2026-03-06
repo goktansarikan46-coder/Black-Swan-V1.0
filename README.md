@@ -13,7 +13,7 @@ Black-Swan V1.0, saha verilerini işlemek ve uzun menzilli kablosuz ağlar üzer
 ## Proje Yapısı
 
 * `/Hardware`: KiCad şematik (.kicad_sch) ve PCB (.kicad_pcb) tasarım dosyaları.
-* `/Hardware/BOM`: Tam malzeme listesi ve bileşen detayları.
+* `/Hardware/BOM`: Malzeme listesi ve bileşen detayları.
 * `/Docs`: Tasarım raporları ve 3D render görselleri.
 
 ## Tasarım Kararları
