@@ -1,1 +1,3 @@
 # Black-Swan-V1.0
+Black-Swan V1.0, kritik saha verilerini işlemek ve uzun menzilli kablosuz ağlar üzerinden aktarmak için tasarlanmış, düşük güç tüketimli bir "Edge" cihazıdır. Proje, biyomedikal sinyal işleme kapasitesini savunma sanayii standartlarında RF güvenilirliği ile birleştirir.
+MCU: STM32L431RCT6 (Ultra-Low Power ARM Cortex-M4).RF Haberleşme: SX1278 LoRa Modülü ve 50 $\Omega$ empedans uyumlu SMA anten çıkışı.Analog Ön Uç (AFE): EKG, EMG veya sismik veriler için optimize edilmiş 3-Op-Amp enstrümantasyon amplifikatörü.Atalet Sensörü: 6-eksenli hareket takibi için entegre MPU-6050 IMU.Güç: USB-C girişi ve gürültü bastırma için molded güç indüktörü (L1) desteği.
