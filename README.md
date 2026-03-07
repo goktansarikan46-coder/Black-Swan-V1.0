@@ -1,6 +1,6 @@
 # Black-Swan V1.0 | Wireless Biomedical & Seismic Sensor Node
 
-Black-Swan V1.0, saha verilerini işlemek ve uzun menzilli kablosuz ağlar üzerinden aktarmak için geliştirdigim, düşük güç tüketimli bir "Edge" sensör düğümüdür. Proje kapsamında, biyomedikal sinyal işleme (AFE) yeteneklerini savunma sanayii standartlarında RF güvenilirliği ile tek bir PCB üzerinde birleştirmeyi hedefledim.
+Black-Swan V1.0, saha verilerini işlemek ve uzun menzilli kablosuz ağlar üzerinden aktarmak için geliştirdigim, düşük güç tüketimli bir "Edge" sensör düğümüdür. Proje kapsamında, biyomedikal sinyal işleme (AFE) yeteneklerini savunma sanayii standartlarında RF güvenilirliği ile tek bir PCB üzerinde birlestirmeyi hedefledim.
 
 ## Teknik Özellikler
 
